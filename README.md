@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devloperkrishnaaggarwal 
 - 👋 Real name : Krishna Aggarwal
 - 👀 I’m interested in devlopment and coding...
-- 🌱 I’m currently learning web devlopment
+- 🌱 I’m currently learning web devlopment and python
 - 📫 E-mail me at krishnaaggarwal.dev@gmail.com for reaching me out. 
 
 <!---
